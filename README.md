@@ -1,6 +1,6 @@
 #### Step 1 
 
-git clone https://github.com/mathaip/landregistry.git
+git clone https://github.com/mathaip/LandRegistry-Hyperledger-GBC.git
 
 Make sure you have docker installed on your machine.
 
